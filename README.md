@@ -1,2 +1,3 @@
-# CMS-Detect
-Content Management System Discover By Mr.Mad
+<div align="center">
+<samp><h1>CMs Discovering Tools</h1></samp>
+</div>
